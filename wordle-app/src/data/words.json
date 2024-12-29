@@ -1,0 +1,114 @@
+{
+  "words": [
+    {
+      "id": 1,
+      "word": "KALEM",
+      "category": "EŞYA"
+    },
+    {
+      "id": 2,
+      "word": "KITAP",
+      "category": "EŞYA"
+    },
+    {
+      "id": 3,
+      "word": "MASKE",
+      "category": "EŞYA"
+    },
+    {
+      "id": 4,
+      "word": "KAPIK",
+      "category": "EŞYA"
+    },
+    {
+      "id": 5,
+      "word": "CANTA",
+      "category": "EŞYA"
+    },
+    {
+      "id": 6,
+      "word": "TAHTA",
+      "category": "EŞYA"
+    },
+    {
+      "id": 7,
+      "word": "BARDA",
+      "category": "EŞYA"
+    },
+    {
+      "id": 8,
+      "word": "KAZAN",
+      "category": "EŞYA"
+    },
+    {
+      "id": 9,
+      "word": "TABLO",
+      "category": "EŞYA"
+    },
+    {
+      "id": 10,
+      "word": "SANDI",
+      "category": "EŞYA"
+    },
+    {
+      "id": 11,
+      "word": "ASLAN",
+      "category": "HAYVAN"
+    },
+    {
+      "id": 12,
+      "word": "TAVUK",
+      "category": "HAYVAN"
+    },
+    {
+      "id": 13,
+      "word": "HOROZ",
+      "category": "HAYVAN"
+    },
+    {
+      "id": 14,
+      "word": "BALIK",
+      "category": "HAYVAN"
+    },
+    {
+      "id": 15,
+      "word": "KEDIM",
+      "category": "HAYVAN"
+    },
+    {
+      "id": 16,
+      "word": "KARGA",
+      "category": "HAYVAN"
+    },
+    {
+      "id": 17,
+      "word": "ELMAM",
+      "category": "MEYVE"
+    },
+    {
+      "id": 18,
+      "word": "ARMUT",
+      "category": "MEYVE"
+    },
+    {
+      "id": 19,
+      "word": "LIMON",
+      "category": "MEYVE"
+    },
+    {
+      "id": 20,
+      "word": "CILEK",
+      "category": "MEYVE"
+    },
+    {
+      "id": 21,
+      "word": "KAVUN",
+      "category": "MEYVE"
+    },
+    {
+      "id": 22,
+      "word": "BAHAR",
+      "category": "DİĞER"
+    }
+  ]
+}
